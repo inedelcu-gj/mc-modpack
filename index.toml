@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "9cefb6bce20863fb1803a19a8bb15e949298a8b552f1ff0d8d235786d501e222"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
+metafile = true
+
+[[files]]
+file = "mods/icecream.pw.toml"
+hash = "727dd4de5393150e29ca15bb9bd7cc63f2019b6c4151312c3e765ad9ced9cdc1"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "49758a58aa3fa0e8032fd7612be3254700eb6ef49fb0fa67070c9da330216485"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "18526608ce284aa1d26e50497dc593d08eb06e2aece0a8ef4d048762b83b7cf2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Cool Custom Pack v3.zip"
+hash = "85c77590365134ddebcac95619b2822df27e092825ce2246ecf8f5050e886500"
+
+[[files]]
+file = "resourcepacks/Dark UI.zip"
+hash = "a77111c0a2e2ea0c777b79e8e0c981456e388ddce732111acda536c4f4592ccf"
+
+[[files]]
+file = "resourcepacks/Smoother Font.zip"
+hash = "12b5e417aa25576bd1b775c2d45ee61cc1b2ab79ef9bff05f26e0cd5d6aec786"
+
+[[files]]
+file = "resourcepacks/UtilityTweaks.zip"
+hash = "a361148690dd171b7937c9978cfd333023554d980ce79c7bde93a3b398a009b5"
+
+[[files]]
+file = "resourcepacks/amongus-totem-e1940.zip"
+hash = "3043ae7220f498d86896f5576ca4ac995960bdc10ac746a35185327a4cb40165"
